@@ -1,0 +1,10 @@
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\bin\Debug\Задание6WinForms.exe.config
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\bin\Debug\Задание6WinForms.exe
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\bin\Debug\Задание6WinForms.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.csprojResolveAssemblyReference.cache
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.Form1.resources
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.Properties.Resources.resources
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.csproj.GenerateResource.Cache
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.exe
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\obj\Debug\Задание6WinForms.pdb
+c:\users\anhen\documents\visual studio 2015\Projects\Задание6WinForms\Задание6WinForms\bin\Debug\Задание6WinForms.XML

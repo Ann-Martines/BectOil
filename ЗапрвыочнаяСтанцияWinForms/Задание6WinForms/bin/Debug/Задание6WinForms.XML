@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Задание6WinForms</name>
+    </assembly>
+    <members>
+        <member name="T:Задание6WinForms.Form1">
+            <summary>
+            The main class for work of the program
+            </summary>
+        </member>
+        <member name="M:Задание6WinForms.Form1.#ctor">
+            <summary>
+            To add to value comboBox
+            </summary>
+        </member>
+        <member name="M:Задание6WinForms.Form1.cmbGasoline_SelectedIndexChanged(System.Object,System.EventArgs)">
+            <summary>
+            To add the price of all values
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.rdbQuantity_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            check if one radioBox works that we disconnect components for another
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.rdbSum_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            check if one radioBox works that we disconnect components for another
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.chkbHotDog_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            if checkBox that is noted it is available to editing
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.chkbHamburger_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            if checkBox that is noted it is available to editing
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.chkbСhips_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            if checkBox that is noted it is available to editing
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.chkbCola_CheckedChanged(System.Object,System.EventArgs)">
+            <summary>
+            if checkBox that is noted it is available to editing
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            To blurt out calculation of gas station, cafe and the total cost
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.grpbFilingStation_Enter(System.Object,System.EventArgs)">
+            <summary>
+            To blurt out calculation of payment of petrol gas station
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.grpbCafe_Enter(System.Object,System.EventArgs)">
+            <summary>
+            To blurt out calculation of payment of cafe
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.timer1_Tick(System.Object,System.EventArgs)">
+            <summary>
+            To install the timer for inquiry, to clean a form or not
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Задание6WinForms.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:Задание6WinForms.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:Задание6WinForms.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:Задание6WinForms.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:Задание6WinForms.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:Задание6WinForms.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:Задание6WinForms.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+        <member name="P:Задание6WinForms.Properties.Resources.Слитки_и_монеты_3">
+            <summary>
+              Поиск локализованного ресурса типа System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
